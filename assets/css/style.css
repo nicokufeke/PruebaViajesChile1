@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+html,
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-weight: 300;
+}
+.navbar {
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+h4{
+    text-transform: uppercase;
+}
+
+#Quienessomos{
+  background-color: black;
+}
+
+.fondo-icono{
+  text-align: center;
+}
+
+.bg-black{
+    background-color: black;
+}
+.card img {
+    max-height: 150px;
+}
+/*.carousel-item img{
+    max-height: 100vh;
+}*/
+.nav-black{
+    background-color: black;
+    color: white;
+}
+.card_propia {
+    border:none
+}
